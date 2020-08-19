@@ -7,7 +7,7 @@ A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software In
 - **Interests**: Software Testing, Software Engineering, IoT and AIoT Engineering
 
 If you are interested in the topics or projects I work on, please reach me via the following approaches.
-> Email: xufan.zhang@outlook.com
+> Email: [xufan.zhang@outlook.com](xufan.zhang@outlook.com)
 
 ### Research Project
 
