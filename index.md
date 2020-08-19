@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Zhang, Xufan
 
-You can use the [editor on GitHub](https://github.com/sunshinezxf/sunshinezxf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software Institute](https://software.nju.edu.cn), [Nanjing University](https://www.nju.edu.cn).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **Supervisor**: [Chen, Zhenyu](http://www.iselab.cn/faculty/ZhenyuChen)
+- **Research Field**: Deep Learning Testing, Fuzzing
+- **Interests**: Software Testing, Software Engineering, IoT and AIoT Engineering
 
-### Markdown
+If you are interested in the topics or projects I work on, please reach me via the following approaches.
+> Email: xufan.zhang@outlook.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research Project
 
-```markdown
-Syntax highlighted code block
+- National natural science foundation of China (Key Program): **Data-driven testing methodologies and echnologies for intelligent software systems**(61932012), 2020-2024, Participant
 
-# Header 1
-## Header 2
-### Header 3
+### Education
 
-- Bulleted
-- List
+- 2019 - now , Software Engineering, **Ph.D. candidate**, Nanjing University
+- 2015 - 2017, Software Engineering, **M.S.**, Nanjing University
+- 2011 - 2015, Software Engineering, **B.S.**, Nanjing University
 
-1. Numbered
-2. List
+### Publication
 
-**Bold** and _Italic_ and `Code` text
+- [NeuralVis: Visualizing and Interpreting Deep Learning Models](https://arxiv.org/pdf/1906.00690.pdf), **Xufan Zhang**, Ziyue Yin, Yang Feng, Qingkai Shi, Jia Liu, Zhenyu Chen, _IEEE/ACM International Conference on Automated Software Engineering(ASE)_, 2019.
 
-[Link](url) and ![Image](src)
-```
+### Experience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunshinezxf/sunshinezxf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 2018 - 2019, **Tech Lead**, Software R&D Group, 江苏果麦环保科技有限公司
+- 2017 - 2018, **Support Engineer**, MSD Team, 微软(中国)有限公司
