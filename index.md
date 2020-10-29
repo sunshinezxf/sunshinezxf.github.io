@@ -8,6 +8,7 @@ A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software In
 
 If you are interested in the topics or projects I work on, please reach me via the following approaches.
 > Email: [xufan.zhang@outlook.com](mailto:xufan.zhang@outlook.com)
+> Wechat: finleyzx
 
 ## Research Project
 
