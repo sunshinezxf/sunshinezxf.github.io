@@ -7,8 +7,9 @@ A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software In
 - **Interests**: Software Testing, Software Engineering, IoT and AIoT Engineering
 
 If you are interested in the topics or projects I work on, please reach me via the following approaches.
-> Email: [xufan.zhang@outlook.com](mailto:xufan.zhang@outlook.com)
-> Wechat: finleyzx
+- Email: [xufan.zhang@outlook.com](mailto:xufan.zhang@outlook.com)
+- Wechat: finleyzx
+- Wechat Official Account: mokeyizhi
 
 ## Research Project
 
@@ -23,6 +24,10 @@ If you are interested in the topics or projects I work on, please reach me via t
 ## Publication
 
 - [NeuralVis: Visualizing and Interpreting Deep Learning Models](https://arxiv.org/pdf/1906.00690.pdf), **Xufan Zhang**, Ziyue Yin, Yang Feng, Qingkai Shi, Jia Liu, Zhenyu Chen, _IEEE/ACM International Conference on Automated Software Engineering(ASE)_, 2019.
+
+## Award
+
+- Nov, 2020, the first prize of the Elite Scholarship.
 
 ## Experience
 
