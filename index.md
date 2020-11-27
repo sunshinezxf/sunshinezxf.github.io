@@ -7,9 +7,9 @@ A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software In
 - **Interests**: Software Testing, Software Engineering, IoT and AIoT Engineering
 
 If you are interested in the topics or projects I work on, please reach me via the following approaches.
-- Email: [xufan.zhang@outlook.com](mailto:xufan.zhang@outlook.com)
-- Wechat: finleyzx
-- Wechat Official Account: mokeyizhi
+- **Wechat**: finleyzx
+- **Email**: [xufan.zhang@outlook.com](mailto:xufan.zhang@outlook.com)
+- **Wechat Official Account**: mokeyizhi
 
 ## Research Project
 
@@ -27,9 +27,9 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Award
 
-- Nov, 2020, the first prize of the Elite Scholarship.
+- Nov, 2020, the **first prize** of the **Elite Scholarship**.
 
 ## Experience
 
-- 2018 - 2019, **Tech Lead**, Software R&D Group, 江苏果麦环保科技有限公司
-- 2017 - 2018, **Support Engineer**, MSD Team, 微软(中国)有限公司
+- 2018 - 2019, **Tech Lead**, Software R&D Group, [GMAIR](http://www.gmair.net)
+- 2017 - 2018, **Support Engineer**, MSD Team, [Microsoft](https://www.microsoft.com)
