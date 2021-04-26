@@ -25,6 +25,8 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 - [NeuralVis: Visualizing and Interpreting Deep Learning Models](https://arxiv.org/pdf/1906.00690.pdf), **Xufan Zhang**, Ziyue Yin, Yang Feng, Qingkai Shi, Jia Liu, Zhenyu Chen, _IEEE/ACM International Conference on Automated Software Engineering(ASE)_, 2019.
 
+- [Software Engineering Practice in the Development of Deep Learning Applications](https://arxiv.org/pdf/1910.03156.pdf), **Xufan Zhang**, Yilin Yang, Yang Feng, Zhenyu Chen, _arXiv preprint arXiv:1910.03156_, 2019.
+
 ## Award
 
 - Nov, 2020, the **first prize** of the **Elite Scholarship**.
