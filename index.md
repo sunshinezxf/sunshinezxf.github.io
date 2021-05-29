@@ -23,7 +23,7 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Publication
 
-- Predoo: Precision Testing of Deep Learning Operators, **Xufan Zhang**, Ning Sun, Chunrong Fang, Jiawei Liu, Jia Liu, Dong Chai, Jiang Wang, Zhenyu Chen, _International Symposium on Software Testing and Analysis (ISSTA)_, 2021.
+- Predoo: Precision Testing of Deep Learning Operators, **Xufan Zhang**, Ning Sun, Chunrong Fang, Jiawei Liu, Jia Liu, Dong Chai, Jiang Wang, Zhenyu Chen, _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_, 2021.
 
 - [NeuralVis: Visualizing and Interpreting Deep Learning Models](https://arxiv.org/pdf/1906.00690.pdf), **Xufan Zhang**, Ziyue Yin, Yang Feng, Qingkai Shi, Jia Liu, Zhenyu Chen, _IEEE/ACM International Conference on Automated Software Engineering (ASE Demo)_, 2019.
 
