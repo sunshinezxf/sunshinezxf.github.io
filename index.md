@@ -13,7 +13,11 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Research Project
 
-- National natural science foundation of China (Key Program): **Data-driven testing methodologies and echnologies for intelligent software systems**(61932012), 2020-2024, Participant
+- National natural science foundation of China (Key Program): **Data-driven testing methodologies and echnologies for intelligent software systems**(61932012), 2020-2024, Participant.
+
+- National natural science foundation of China (Key Program): **Software testing technology for security-critical deep learning system**(61832009), 2019-2023, Participant.
+
+- National natural science foundation of China : **Human-machine collaborative mobile application testing based on comprehensible information fusion**(61802171), 2019-2021, Participant.
 
 ## Education
 
