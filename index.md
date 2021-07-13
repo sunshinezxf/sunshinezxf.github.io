@@ -21,7 +21,7 @@ If you are interested in the topics or projects I work on, please reach me via t
 - 2015 - 2017, Software Engineering, **M.S.**, Nanjing University
 - 2011 - 2015, Software Engineering, **B.S.**, Nanjing University
 
-## Publication
+## [Publication](http://pub.zhangxufan.cn)
 
 - [Predoo: Precision Testing of Deep Learning Operators](https://dl.acm.org/doi/10.1145/3460319.3464843), **Xufan Zhang**, Ning Sun, Chunrong Fang, Jiawei Liu, Jia Liu, Dong Chai, Jiang Wang, Zhenyu Chen, _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_, 2021.
 
