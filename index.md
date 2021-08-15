@@ -37,11 +37,11 @@ If you are interested in the topics or projects I work on, please reach me via t
 ## Award
 
 - 2020, the **first prize** of the **Elite Scholarship**.
-- 2017, Outstanding graduates of Nanjing University.
-- 2016, Outstanding postgraduates of Nanjing University.
+- 2017, Outstanding graduate of Nanjing University.
+- 2016, Outstanding postgraduate of Nanjing University.
 - 2016, CETC The 14TH Research Institute Glarun Scholarship.
-- 2015, Outstanding graduates of Nanjing University.
-- 2013, Outstanding students of Nanjing University.
+- 2015, Outstanding graduate of Nanjing University.
+- 2013, Outstanding student of Nanjing University.
 - 2013, the **first prize** of the **People's Scholarship**.
 - 2012, the **first prize** of the **Social Work**.
 - 2012, the **second prize** of the **People's Scholarship**.
