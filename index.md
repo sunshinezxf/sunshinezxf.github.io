@@ -29,7 +29,7 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 - [Predoo: Precision Testing of Deep Learning Operators](https://dl.acm.org/doi/10.1145/3460319.3464843), **Xufan Zhang**, Ning Sun, Chunrong Fang, Jiawei Liu, Jia Liu, Dong Chai, Jiang Wang, Zhenyu Chen, _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_, 2021.
 
-- Duo: Differential Fuzzing for Deep Learning Operators, **Xufan Zhang**, Jiawei Liu, Ning Sun, Chunrong Fang, Jia Liu, Jiang Wang, Dong Chai, Zhenyu Chen, _[IEEE Transactions on Reliability, Special Section on Quality Assurance of Machine Learning Systems (TRel-QA-ML)](https://paris.utdallas.edu/TRel/)_, 2021.
+- [Duo: Differential Fuzzing for Deep Learning Operators](https://doi.org/10.1109/TR.2021.3107165), **Xufan Zhang**, Jiawei Liu, Ning Sun, Chunrong Fang, Jia Liu, Jiang Wang, Dong Chai, Zhenyu Chen, _IEEE Transactions on Reliability, Special Section on Quality Assurance of Machine Learning Systems (TRel-QA-ML)_, 2021.
 
 - [NeuralVis: Visualizing and Interpreting Deep Learning Models](https://dl.acm.org/doi/10.1109/ASE.2019.00113), **Xufan Zhang**, Ziyue Yin, Yang Feng, Qingkai Shi, Jia Liu, Zhenyu Chen, _IEEE/ACM International Conference on Automated Software Engineering (ASE Demo)_, 2019.
 
