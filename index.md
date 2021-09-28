@@ -53,6 +53,6 @@ If you are interested in the topics or projects I work on, please reach me via t
 - 2018 - 2019, **Tech Lead**, Software R&D Group, [GMAIR](http://www.gmair.net)
 - 2017 - 2018, **Support Engineer**, MSD Team, [Microsoft](https://www.microsoft.com)
 
-## News
+<!-- ## News -->
 
-- [深度学习库精度测试（原标题：iSE团队在人工智能测试领域取得重要研究进展）](https://software.nju.edu.cn//xyxw/20210601/i201310.html)
+<!-- - [深度学习库精度测试（原标题：iSE团队在人工智能测试领域取得重要研究进展）](https://software.nju.edu.cn//xyxw/20210601/i201310.html) -->
