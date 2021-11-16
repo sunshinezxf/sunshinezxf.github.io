@@ -4,7 +4,7 @@ A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software In
 
 - **Supervisor**: [Chen, Zhenyu](http://www.iselab.cn/faculty/ZhenyuChen)
 - **Research Field**: Deep Learning Testing, Fuzzing
-- **Interests**: Software Testing, Software Engineering, IoT and AIoT Engineering
+- **Interests**: Software Testing, Machine Learning, Software Engineering, IoT and AIoT Engineering
 
 If you are interested in the topics or projects I work on, please reach me via the following approaches.
 - **Wechat**: finleyzx
@@ -50,9 +50,9 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Experience
 
-- 2018 - 2019, **Tech Lead**, Software R&D Group, [GMAIR](http://www.gmair.net)
-- 2017 - 2018, **Support Engineer**, MSD Team, [Microsoft](https://www.microsoft.com)
+- 2018 - 2019, **Tech Lead**, Software R&D Group, [GMAIR](http://www.gmair.net).
+- 2017 - 2018, **Support Engineer**, MSD Team, [Microsoft](https://www.microsoft.com).
 
-<!-- ## News -->
+## Investment
 
-<!-- - [深度学习库精度测试（原标题：iSE团队在人工智能测试领域取得重要研究进展）](https://software.nju.edu.cn//xyxw/20210601/i201310.html) -->
+- Shareholder of 600009, 600048, 600900, 002352, 002511. (Will be updated by Dec 31, 2021)
