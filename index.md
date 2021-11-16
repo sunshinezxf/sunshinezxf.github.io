@@ -55,4 +55,4 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Investment
 
-- Shareholder of 600009, 600048, 600900, 002352, 002511. (Top 5, will be updated by Dec 31, 2021)
+- Shareholder of 600009, 600048, 600900, 002352, 002511. (Will be updated by Dec 31, 2021)
