@@ -38,6 +38,7 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Award
 
+- 2021, **National Scholarship for Postgradutes (Ph.D. Scholarship)**.
 - 2020, the **first prize** of the **Elite Scholarship**.
 - 2017, Outstanding graduate of Nanjing University.
 - 2016, Outstanding postgraduate of Nanjing University.
