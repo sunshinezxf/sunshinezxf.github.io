@@ -3,7 +3,7 @@
 A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software Institute](https://software.nju.edu.cn), [State Key Laboratory](https://keysoftlab.nju.edu.cn) for Novel Software Technology at [Nanjing University](https://www.nju.edu.cn).
 
 - **Supervisor**: [Chen, Zhenyu](http://www.iselab.cn/faculty/ZhenyuChen)
-- **Research Field**: Deep Learning Testing, Fuzzing
+- **Research Field**: Deep Learning Testing, Fuzzing, 
 - **Interests**: Software Testing, Machine Learning, Software Engineering, IoT and AIoT Engineering
 
 If you are interested in the topics or projects I work on, please reach me via the following approaches.
@@ -27,9 +27,9 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## [Publication](http://pub.zhangxufan.cn)
 
-- [Predoo: Precision Testing of Deep Learning Operators](https://dl.acm.org/doi/10.1145/3460319.3464843), **Xufan Zhang**, Ning Sun, Chunrong Fang, Jiawei Liu, Jia Liu, Dong Chai, Jiang Wang, Zhenyu Chen, _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_, 2021.
+- [Predoo: Precision Testing of Deep Learning Operators](https://dl.acm.org/doi/10.1145/3460319.3464843) (CCF-A), **Xufan Zhang**, Ning Sun, Chunrong Fang, Jiawei Liu, Jia Liu, Dong Chai, Jiang Wang, Zhenyu Chen, _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_, 2021.
 
-- [Duo: Differential Fuzzing for Deep Learning Operators](https://doi.org/10.1109/TR.2021.3107165), **Xufan Zhang**, Jiawei Liu, Ning Sun, Chunrong Fang, Jia Liu, Jiang Wang, Dong Chai, Zhenyu Chen, _IEEE Transactions on Reliability, Special Section on Quality Assurance of Machine Learning Systems (TRel-QA-ML)_, 2021.
+- [Duo: Differential Fuzzing for Deep Learning Operators](https://doi.org/10.1109/TR.2021.3107165) (SCI Software Engineering, Q1), **Xufan Zhang**, Jiawei Liu, Ning Sun, Chunrong Fang, Jia Liu, Jiang Wang, Dong Chai, Zhenyu Chen, _IEEE Transactions on Reliability_, 2021.
 
 - [NeuralVis: Visualizing and Interpreting Deep Learning Models](https://dl.acm.org/doi/10.1109/ASE.2019.00113), **Xufan Zhang**, Ziyue Yin, Yang Feng, Qingkai Shi, Jia Liu, Zhenyu Chen, _IEEE/ACM International Conference on Automated Software Engineering (ASE Demo)_, 2019.
 
