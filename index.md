@@ -31,6 +31,10 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 - [Duo: Differential Fuzzing for Deep Learning Operators](https://doi.org/10.1109/TR.2021.3107165) (SCI Software Engineering, Q1), **Xufan Zhang**, Jiawei Liu, Ning Sun, Chunrong Fang, Jia Liu, Jiang Wang, Dong Chai, Zhenyu Chen, _IEEE Transactions on Reliability_, 2021.
 
+- TauLiM: Test Data Augmentation of LiDAR Point Cloud by Metamorphic Relation, Ju Lin, Jiawei Liu, Quanjun Zhang, **Xufan Zhang**, Chunrong Fang, _International Conference on Software Engineering (ICSE Demo)_, 2022.
+
+- TauPad: Test Data Augmentation of Point Clouds by Adversarial Mutation, Guandi Liu, Jiawei Liu, Quanjun Zhang, Chunrong Fang, **Xufan Zhang**, _International Conference on Software Engineering (ICSE Demo)_, 2022.
+
 - [NeuralVis: Visualizing and Interpreting Deep Learning Models](https://dl.acm.org/doi/10.1109/ASE.2019.00113), **Xufan Zhang**, Ziyue Yin, Yang Feng, Qingkai Shi, Jia Liu, Zhenyu Chen, _IEEE/ACM International Conference on Automated Software Engineering (ASE Demo)_, 2019.
 
 - [Software Engineering Practice in the Development of Deep Learning Applications](https://arxiv.org/pdf/1910.03156.pdf), **Xufan Zhang**, Yilin Yang, Yang Feng, Zhenyu Chen, _arXiv preprint arXiv:1910.03156_, 2019.
