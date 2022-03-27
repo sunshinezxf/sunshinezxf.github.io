@@ -2,7 +2,7 @@
 
 A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software Institute](https://software.nju.edu.cn), [State Key Laboratory](https://keysoftlab.nju.edu.cn) for Novel Software Technology at [Nanjing University](https://www.nju.edu.cn).
 
-- **Supervisor**: [Chen, Zhenyu](http://www.iselab.cn/faculty/ZhenyuChen)
+- **Supervisor**: [Chen, Zhenyu](http://www.iselab.cn/faculty/ZhenyuChen).
 - **Research Field**: Deep Learning Testing, Fuzzing.
 - **Interests**: Software Testing, Machine Learning, Software Engineering, IoT and AIoT Engineering
 
@@ -21,7 +21,7 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Education
 
-- 2019 - now , Software Engineering, **Ph.D. candidate**, Nanjing University
+- 2019 - Now , Software Engineering, **Ph.D. candidate**, Nanjing University
 - 2015 - 2017, Software Engineering, **M.S.**, Nanjing University
 - 2011 - 2015, Software Engineering, **B.S.**, Nanjing University
 
@@ -42,6 +42,7 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Award
 
+- 2021, Model student of outstanding postgraduate of Nanjing University.
 - 2021, **National Scholarship for Postgradutes (Ph.D. Scholarship)**.
 - 2020, the **first prize** of the **Elite Scholarship**.
 - 2017, Outstanding graduate of Nanjing University.
