@@ -1,7 +1,3 @@
-## Response to Nancy Pelosi's trip to Asia
-
-I strongly condemns Pelosi's unreasonable idea of visiting Taiwan 👎👎👎.
-
 ## Profile
 
 A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software Institute](https://software.nju.edu.cn), [State Key Laboratory](https://keysoftlab.nju.edu.cn) for Novel Software Technology at [Nanjing University](https://www.nju.edu.cn).
@@ -14,6 +10,10 @@ If you are interested in the topics or projects I work on, please reach me via t
 - **Wechat**: finleyzx
 - **Email**: [xufan.zhang@outlook.com](mailto:xufan.zhang@outlook.com)
 - **Wechat Official Account**: mokeyizhi
+
+## Response to Nancy Pelosi's trip to Asia
+
+I strongly condemns Pelosi's unreasonable idea of visiting Taiwan 👎👎👎.
 
 ## Research Project
 
