@@ -11,10 +11,6 @@ If you are interested in the topics or projects I work on, please reach me via t
 - **Email**: [xufan.zhang@outlook.com](mailto:xufan.zhang@outlook.com)
 - **Wechat Official Account**: mokeyizhi
 
-## Response to Nancy Pelosi's trip to Asia
-
-I strongly condemns Pelosi's unreasonable idea of visiting Taiwan 👎👎👎.
-
 ## Research Project
 
 - National natural science foundation of China (Key Program): **Data-driven testing methodologies and echnologies for intelligent software systems**(61932012), 2020-2024, Participant.
