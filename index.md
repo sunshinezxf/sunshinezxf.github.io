@@ -31,6 +31,8 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 - [Duo: Differential Fuzzing for Deep Learning Operators](https://doi.org/10.1109/TR.2021.3107165) (SCI Software Engineering, Q1), **Xufan Zhang**, Jiawei Liu, Ning Sun, Chunrong Fang, Jia Liu, Jiang Wang, Dong Chai, Zhenyu Chen, _IEEE Transactions on Reliability_, 2021.
 
+- [Service Call Chain Analysis for Microservice Systems](https://jit.ndhu.edu.tw/article/view/2781), Zhiqiang Hao, **Xufan Zhang**, Jia Liu, Qing Wu, _Journal of Internet Technology_, 2022.
+
 - [TauLiM: Test Data Augmentation of LiDAR Point Cloud by Metamorphic Relation](https://ieeexplore.ieee.org/document/9793740), Ju Lin, Jiawei Liu, Quanjun Zhang, **Xufan Zhang**, Chunrong Fang, _International Conference on Software Engineering (ICSE Demo)_, 2022.
 
 - [TauPad: Test Data Augmentation of Point Clouds by Adversarial Mutation](https://ieeexplore.ieee.org/document/9793744), Guandi Liu, Jiawei Liu, Quanjun Zhang, Chunrong Fang, **Xufan Zhang**, _International Conference on Software Engineering (ICSE Demo)_, 2022.
