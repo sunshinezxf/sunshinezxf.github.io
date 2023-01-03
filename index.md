@@ -63,7 +63,8 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Investment
 
-- Shareholder of 002352, 600887, 000333, 002511, 600900. (Top 5, Sep 30, 2022, will be updated by Dec 31, 2022)
+- Shareholder of 600887, 002352, 002511, 000333, 600900. (Top 5, Dec 31, 2022, will be updated by Mar 31, 2023)
+- Shareholder of 002352, 600887, 000333, 002511, 600900. (Top 5, Sep 30, 2022)
 - Shareholder of 000333, 600009, 002352, 002511, 600887. (Top 5, Jun 30, 2022)
 - Shareholder of 000333, 600009, 002511, 002352, 600887. (Top 5, Mar 31, 2022)
 - Shareholder of 002511, 600009, 002352, 600115 (🕯️R.I.P. MU5735, Mar 21, 2022), 600048. (Top 5, Dec 31, 2021)
