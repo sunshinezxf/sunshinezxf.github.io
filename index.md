@@ -58,12 +58,14 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Experience
 
+- 2023 - , **Researcher**, Research Dept, [Keylights Biotechnology Co., Ltd](https://www.keylights.cn/en/index.aspx).
 - 2018 - 2019, **Tech Lead**, Software R&D Group, [GMAIR](http://www.gmair.net).
 - 2017 - 2018, **Support Engineer**, MSD Team, [Microsoft](https://www.microsoft.com).
 
 ## Investment
 
-- Shareholder of 600887, 002352, 002511, 000333, 600900. (Top 5, Dec 31, 2022, will be updated by Mar 31, 2023)
+- Shareholder of 600887, 002352, 000333, 002511, 600048. (Top 5, Mar 31, 2023, will be updated by Jun 30, 2023)
+- Shareholder of 600887, 002352, 002511, 000333, 600900. (Top 5, Dec 31, 2022)
 - Shareholder of 002352, 600887, 000333, 002511, 600900. (Top 5, Sep 30, 2022)
 - Shareholder of 000333, 600009, 002352, 002511, 600887. (Top 5, Jun 30, 2022)
 - Shareholder of 000333, 600009, 002511, 002352, 600887. (Top 5, Mar 31, 2022)
