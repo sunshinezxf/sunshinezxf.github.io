@@ -21,7 +21,7 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 ## Education
 
-- 2019 - Now , Software Engineering, **Ph.D. candidate**, Nanjing University
+- 2019 - 2023 , Software Engineering, **Ph.D. candidate**, Nanjing University
 - 2015 - 2017, Software Engineering, **M.S.**, Nanjing University
 - 2011 - 2015, Software Engineering, **B.S.**, Nanjing University
 
