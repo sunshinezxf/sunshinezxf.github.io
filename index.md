@@ -1,6 +1,6 @@
 ## Profile
 
-A Ph.D. candidate in [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software Institute](https://software.nju.edu.cn), [State Key Laboratory](https://keysoftlab.nju.edu.cn) for Novel Software Technology at [Nanjing University](https://www.nju.edu.cn).
+Ph.D., graduated from [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software Institute](https://software.nju.edu.cn), [State Key Laboratory](https://keysoftlab.nju.edu.cn) for Novel Software Technology at [Nanjing University](https://www.nju.edu.cn).
 
 - **Supervisor**: [Chen, Zhenyu](http://www.iselab.cn/faculty/ZhenyuChen).
 - **Research Field**: Deep Learning Testing, Fuzzing.
