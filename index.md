@@ -29,9 +29,9 @@ If you are interested in the topics or projects I work on, please reach me via t
 
 - [Predoo: Precision Testing of Deep Learning Operators](https://dl.acm.org/doi/10.1145/3460319.3464843) (CCF-A), **Xufan Zhang**, Ning Sun, Chunrong Fang, Jiawei Liu, Jia Liu, Dong Chai, Jiang Wang, Zhenyu Chen, _ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)_, 2021.
 
-- [Duo: Differential Fuzzing for Deep Learning Operators](https://doi.org/10.1109/TR.2021.3107165) (SCI Software Engineering, Q1), **Xufan Zhang**, Jiawei Liu, Ning Sun, Chunrong Fang, Jia Liu, Jiang Wang, Dong Chai, Zhenyu Chen, _IEEE Transactions on Reliability_, 2021.
+- [Duo: Differential Fuzzing for Deep Learning Operators](https://doi.org/10.1109/TR.2021.3107165) (SCI Software Engineering, Q1), **Xufan Zhang**, Jiawei Liu, Ning Sun, Chunrong Fang, Jia Liu, Jiang Wang, Dong Chai, Zhenyu Chen, _IEEE Transactions on Reliability (TR)_, 2021.
 
-- [Generation-Based Differential Fuzzing Testing for Deep Learning Library](https://dl.acm.org/doi/10.1145/3628159)(CCF-A), Jiawei Liu, Yuheng Huang, Zhijie Wang, Lei Ma, Chunrong Fang, Mingzheng Gu, **Xufan Zhang**, Zhenyu Chen, _ACM Transactions on Software Engineering and Methodology_, 2023.
+- [Generation-Based Differential Fuzzing Testing for Deep Learning Library](https://dl.acm.org/doi/10.1145/3628159)(CCF-A), Jiawei Liu, Yuheng Huang, Zhijie Wang, Lei Ma, Chunrong Fang, Mingzheng Gu, **Xufan Zhang**, Zhenyu Chen, _ACM Transactions on Software Engineering and Methodology (TOSEM)_, 2023.
 
 - [Service Call Chain Analysis for Microservice Systems](https://jit.ndhu.edu.tw/article/view/2781), Zhiqiang Hao, **Xufan Zhang**, Jia Liu, Qing Wu, _Journal of Internet Technology_, 2022.
 
