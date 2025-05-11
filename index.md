@@ -6,10 +6,16 @@ Ph.D., graduated from [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software I
 - **Research Field**: Deep Learning Testing, Fuzzing.
 - **Interests**: Software Testing, Machine Learning, Software Engineering, IoT and AIoT Engineering
 
-If you are interested in the topics or projects I work on, please reach me via the following approaches.
-- **QQ/Wechat**: 418868395/fanzx-cn
+If you are interested in the topics/projects/courses I work on, or if you would like to provide any feedback, please do not hesitate to reach me via the following approaches.
 - **Email**: [xufan.zhang@outlook.com](mailto:xufan.zhang@outlook.com)
 - **Wechat Official Account**: mokeyizhi
+
+## Courses
+
+- Web Development(2024), Software Institute, Nanjing University.
+
+- Web Development(2024), School of Intelligent Software and Engineering, Nanjing University.
+
 
 ## Research Project
 
@@ -63,15 +69,3 @@ If you are interested in the topics or projects I work on, please reach me via t
 - 2023 - , **Researcher**, Research Dept, [Keylights Biotechnology Co., Ltd](https://www.keylights.cn/en/index.aspx).
 - 2018 - 2019, **Tech Lead**, Software R&D Group, [GMAIR](http://www.gmair.net).
 - 2017 - 2018, **Support Engineer**, MSD Team, [Microsoft](https://www.microsoft.com).
-
-## Investment
-
-- 600887, 002352, 000333, 002511, 600048. (Top 5, Sep 30, will be updated by Dec 2023)
-- 002352, 000333, 600887, 002511, 002714. (Top 5, Jun 30, 2023)
-- 600887, 002352, 000333, 002511, 600048. (Top 5, Mar 31, 2023)
-- 600887, 002352, 002511, 000333, 600900. (Top 5, Dec 31, 2022)
-- 002352, 600887, 000333, 002511, 600900. (Top 5, Sep 30, 2022)
-- 000333, 600009, 002352, 002511, 600887. (Top 5, Jun 30, 2022)
-- 000333, 600009, 002511, 002352, 600887. (Top 5, Mar 31, 2022)
-- 002511, 600009, 002352, 600115 (🕯️R.I.P. MU5735, Mar 21, 2022), 600048. (Top 5, Dec 31, 2021)
-- 600009, 600048, 600900, 002352, 002511. (Top 5, Sep 30, 2021)
