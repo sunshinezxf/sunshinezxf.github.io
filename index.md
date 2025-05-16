@@ -49,6 +49,12 @@ If you are interested in the topics/projects/courses I work on, or if you would 
 
 - [Software Engineering Practice in the Development of Deep Learning Applications](https://arxiv.org/pdf/1910.03156.pdf), **Xufan Zhang**, Yilin Yang, Yang Feng, Zhenyu Chen, _arXiv preprint arXiv:1910.03156_, 2019.
 
+## Patent
+
+- CN113658591A: 一种面向智能家居的语音交互适配系统
+
+- CN113742204A: 一种基于模糊测试的深度学习算子测试工具
+
 
 ## Award
 
