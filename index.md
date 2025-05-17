@@ -51,9 +51,9 @@ If you are interested in the topics/projects/courses I work on, or if you would 
 
 ## Patent
 
-- CN113658591A: 一种面向智能家居的语音交互适配系统
+- CN113658591A: Voice Interation Adaption System for Smart Home.
 
-- CN113742204A: 一种基于模糊测试的深度学习算子测试工具
+- CN113742204A: Deep Learning Operator Testing based on Fuzzing.
 
 
 ## Award
