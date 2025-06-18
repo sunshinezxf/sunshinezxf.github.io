@@ -73,5 +73,5 @@ If you are interested in the topics/projects/courses I work on, or if you would 
 ## Experience
 
 - 2023 - , **Researcher**, Research Dept, [Keylights Biotechnology Co., Ltd](https://www.keylights.cn/en/index.aspx).
-- 2018 - 2019, **Tech Lead**, Software R&D Group, [GMAIR](http://www.gmair.net).
+- 2018 - 2023, **Tech Lead (Parttime)**, Software R&D Group, [GMAIR](http://www.gmair.net).
 - 2017 - 2018, **Support Engineer**, MSD Team, [Microsoft](https://www.microsoft.com).
