@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
 
 <head>
   <meta charset='utf-8'>
@@ -14,9 +14,38 @@
     <![endif]-->
 
   {% seo %}
+  
+  <style>
+    .lang-switch {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background: #2e7bcf;
+      color: white;
+      padding: 8px 15px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 14px;
+      z-index: 1000;
+      transition: background-color 0.3s;
+    }
+    .lang-switch:hover {
+      background: #1e5aa0;
+      color: white;
+      text-decoration: none;
+    }
+  </style>
 </head>
 
 <body>
+  <!-- Language Switch Button -->
+  {% assign current_lang = page.lang | default: 'en' %}
+  {% if current_lang == 'en' %}
+    <a href="{{ '/zh.html' | relative_url }}" class="lang-switch">中文</a>
+  {% else %}
+    <a href="{{ '/' | relative_url }}" class="lang-switch">English</a>
+  {% endif %}
+
   <header>
     <div class="inner">
       <a href="{{ '/' | absolute_url }}">

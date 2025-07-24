@@ -1,3 +1,6 @@
 title: Xufan Zhang
 theme: jekyll-theme-architect
-description: Keep learning, keep living。
+description: 
+lang: en
+languages: ["en", "zh"]
+exclude_from_localization: ["assets", "script"] 

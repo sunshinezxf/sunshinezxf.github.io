@@ -1,0 +1,21 @@
+en:
+  profile: "Profile"
+  courses: "Courses"
+  research_project: "Research Project"
+  education: "Education"
+  publication: "Publication"
+  patent: "Patent"
+  award: "Award"
+  experience: "Experience"
+  lang_switch: "中文"
+  
+zh:
+  profile: "简介"
+  courses: "授课"
+  research_project: "科研项目"
+  education: "教育经历"
+  publication: "学术论文"
+  patent: "专利"
+  award: "获奖情况"
+  experience: "工作经历"
+  lang_switch: "English"

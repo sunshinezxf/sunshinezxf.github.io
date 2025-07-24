@@ -1,3 +1,8 @@
+---
+layout: default
+lang: en
+---
+
 ## Profile
 
 Ph.D., graduated from [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software Institute](https://software.nju.edu.cn), [State Key Laboratory](https://keysoftlab.nju.edu.cn) for Novel Software Technology at [Nanjing University](https://www.nju.edu.cn).
@@ -72,6 +77,6 @@ If you are interested in the topics/projects/courses I work on, or if you would 
 
 ## Experience
 
-- 2023 - , **Researcher**, Research Dept, [Keylights Biotechnology Co., Ltd](https://www.keylights.cn/en/index.aspx).
+- 2023 - 2025, **Researcher**, Research Dept, [Keylights Biotechnology Co., Ltd](https://www.keylights.cn/en/index.aspx).
 - 2018 - 2023, **Tech Lead (Parttime)**, Software R&D Group, [GMAIR](http://www.gmair.net).
 - 2017 - 2018, **Support Engineer**, MSD Team, [Microsoft](https://www.microsoft.com).
