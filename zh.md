@@ -71,6 +71,6 @@ lang: zh
 
 ## 工作经历
 
-- 2023 - 2025，**研究员**，研发部，[科来思生物科技有限公司](https://www.keylights.cn/en/index.aspx)
+- 2023 - 2025，**研究员**，技术研究部，[科来思生物科技有限公司](https://www.keylights.cn/en/index.aspx)
 - 2018 - 2019，**技术负责人（读博期间兼职）**，软件研发部，[果麦科技](http://www.gmair.net)
 - 2017 - 2018，**技术支持工程师**，MSD团队，[微软](https://www.microsoft.com)
