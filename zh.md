@@ -7,7 +7,7 @@ lang: zh
 
 博士，毕业于[南京大学](https://www.nju.edu.cn)[软件学院](https://software.nju.edu.cn)[软件新技术国家重点实验室](https://keysoftlab.nju.edu.cn) [iSE实验室](http://www.iselab.cn) AIEngin小组。
 
-- **导师**: [陈振宇](http://www.iselab.cn/faculty/ZhenyuChen)
+- **导师**: [陈振宇](http://www.iselab.cn/member/detail?memberId=37)
 - **研究方向**: 深度学习测试、模糊测试
 - **兴趣领域**: 软件测试、机器学习、软件工程、物联网和人工智能物联网工程
 
