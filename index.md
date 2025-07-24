@@ -17,6 +17,10 @@ If you are interested in the topics/projects/courses I work on, or if you would 
 
 ## Courses
 
+- Web Development(2025), Software Institute, Nanjing University.
+
+- Web Development(2025), School of Intelligent Software and Engineering, Nanjing University.
+
 - Web Development(2024), Software Institute, Nanjing University.
 
 - Web Development(2024), School of Intelligent Software and Engineering, Nanjing University.
