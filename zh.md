@@ -40,6 +40,8 @@ lang: zh
 
 - [Duo: Differential Fuzzing for Deep Learning Operators](https://doi.org/10.1109/TR.2021.3107165) (SCI Software Engineering, Q1), **Xufan Zhang**, Jiawei Liu, Ning Sun, Chunrong Fang, Jia Liu, Jiang Wang, Dong Chai, Zhenyu Chen, _IEEE Transactions on Reliability (TR)_, 2021.
 
+= [Automated Detection and Repair of Floating-point Precision Problems in Convolutional Neural Network Operators](https://dl.acm.org/doi/10.1145/3715104)(CCF-A), Jiawei Liu, Xufan Zhang, Lurong Xu, Chunrong Fang, Mingzheng Gu, Weisi Luo, Dong Chai, Jiang Wang, Zhihong Zhao, Zhenyu Chen, _ACM Transactions on Software Engineering and Methodology (TOSEM)_, 2025.
+
 - [Generation-Based Differential Fuzzing Testing for Deep Learning Library](https://dl.acm.org/doi/10.1145/3628159)(CCF-A), Jiawei Liu, Yuheng Huang, Zhijie Wang, Lei Ma, Chunrong Fang, Mingzheng Gu, **Xufan Zhang**, Zhenyu Chen, _ACM Transactions on Software Engineering and Methodology (TOSEM)_, 2023.
 
 - [Service Call Chain Analysis for Microservice Systems](https://jit.ndhu.edu.tw/article/view/2781), Zhiqiang Hao, **Xufan Zhang**, Jia Liu, Qing Wu, _Journal of Internet Technology_, 2022.
