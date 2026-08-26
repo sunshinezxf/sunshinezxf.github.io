@@ -8,7 +8,7 @@ lang: en
 Ph.D., graduated from [iSE Lab](http://www.iselab.cn) AIEngin Group, [Software Institute](https://software.nju.edu.cn), [State Key Laboratory](https://keysoftlab.nju.edu.cn) for Novel Software Technology at [Nanjing University](https://www.nju.edu.cn).
 
 - **Supervisor**: [Chen, Zhenyu](http://www.iselab.cn/member/detail?memberId=37).
-- **Research Field**: Deep Learning Testing, Fuzzing.
+- **Research Field**: High-end Equipment Oriented Digital Twin Platform
 - **Interests**: Software Testing, Machine Learning, Software Engineering, IoT and AIoT Engineering
 
 If you are interested in the topics/projects/courses I work on, or if you would like to provide any feedback, please do not hesitate to reach me via the following approaches.
@@ -16,6 +16,8 @@ If you are interested in the topics/projects/courses I work on, or if you would 
 - **Wechat Official Account**: mokeyizhi
 
 ## Courses
+
+- Web Development(2026), Software Institute, Nanjing University.
 
 - Web Development(2025), Software Institute, Nanjing University.
 
@@ -83,6 +85,7 @@ If you are interested in the topics/projects/courses I work on, or if you would 
 
 ## Experience
 
+- 2025 - Now, **Postdoctoral**, Zhejiang University.
 - 2023 - 2025, **Researcher**, Research Dept, [Keylights Biotechnology Co., Ltd](https://www.keylights.cn/en/index.aspx).
 - 2018 - 2023, **Tech Lead (Parttime)**, Software R&D Group, [GMAIR](http://www.gmair.net).
 - 2017 - 2018, **Support Engineer**, MSD Team, [Microsoft](https://www.microsoft.com).

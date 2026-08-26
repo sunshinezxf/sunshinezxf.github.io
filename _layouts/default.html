@@ -14,60 +14,125 @@
     <![endif]-->
 
   {% seo %}
-  
-  <style>
-    .lang-switch {
-      position: fixed;
-      top: 20px;
-      right: 20px;
-      background: #2e7bcf;
-      color: white;
-      padding: 8px 15px;
-      border-radius: 5px;
-      text-decoration: none;
-      font-size: 14px;
-      z-index: 1000;
-      transition: background-color 0.3s;
-    }
-    .lang-switch:hover {
-      background: #1e5aa0;
-      color: white;
-      text-decoration: none;
-    }
-  </style>
+
+  <script>
+    (function () {
+      var currentLang = "{{ page.lang | default: 'en' }}";
+      var rootPath = "{{ '/' | relative_url }}";
+      var zhPath = "{{ '/zh.html' | relative_url }}";
+
+      if (currentLang !== 'en') {
+        return;
+      }
+
+      var pathname = window.location.pathname;
+      var isRootPage = pathname === rootPath || pathname === rootPath + 'index.html';
+      if (!isRootPage) {
+        return;
+      }
+
+      var searchParams = new URLSearchParams(window.location.search);
+      var requestedLang = searchParams.get('lang');
+      if (requestedLang === 'en' || requestedLang === 'zh') {
+        localStorage.setItem('preferred-lang', requestedLang);
+        if (requestedLang === 'en') {
+          searchParams.delete('lang');
+          var cleanQuery = searchParams.toString();
+          var cleanUrl = pathname + (cleanQuery ? '?' + cleanQuery : '') + window.location.hash;
+          window.history.replaceState({}, '', cleanUrl);
+        }
+        return;
+      }
+
+      var preferredLang = localStorage.getItem('preferred-lang');
+      if (preferredLang === 'zh') {
+        window.location.replace(zhPath);
+        return;
+      }
+      if (preferredLang === 'en') {
+        return;
+      }
+
+      var browserLanguages = navigator.languages && navigator.languages.length
+        ? navigator.languages
+        : [navigator.language || ''];
+      var useChinese = browserLanguages.some(function (lang) {
+        return /^zh(?:[-_]|$)/i.test(lang);
+      });
+
+      if (useChinese) {
+        window.location.replace(zhPath);
+      }
+    })();
+  </script>
 </head>
 
 <body>
-  <!-- Language Switch Button -->
   {% assign current_lang = page.lang | default: 'en' %}
-  {% if current_lang == 'en' %}
-    <a href="{{ '/zh.html' | relative_url }}" class="lang-switch">中文</a>
-  {% else %}
-    <a href="{{ '/' | relative_url }}" class="lang-switch">English</a>
-  {% endif %}
+  <div class="site-shell">
+    <div class="hero-glow hero-glow-a" aria-hidden="true"></div>
+    <div class="hero-glow hero-glow-b" aria-hidden="true"></div>
 
-  <header>
-    <div class="inner">
-      <a href="{{ '/' | absolute_url }}">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-      </a>
-      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-      <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
-      {% endif %}
-      {% if site.github.is_user_page %}
-      <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
-      {% endif %}
-    </div>
-  </header>
+    {% if current_lang == 'en' %}
+      <a href="{{ '/zh.html?lang=zh' | relative_url }}" class="lang-switch" data-lang-target="zh">中文</a>
+    {% else %}
+      <a href="{{ '/?lang=en' | relative_url }}" class="lang-switch" data-lang-target="en">English</a>
+    {% endif %}
 
-  <div id="content-wrapper">
-    <div class="inner clearfix">
-      <section id="main-content">
-        {{ content }}
-      </section>
-    </div>
+    <header class="site-header">
+      <div class="inner header-grid">
+        <div class="title-block">
+          <p class="eyebrow">PERSONAL NODE</p>
+          <a href="{{ '/' | absolute_url }}" class="brand-link">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          </a>
+          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        </div>
+
+        <div class="header-meta">
+          <div class="signal-chip">
+            <span class="signal-dot"></span>
+            {% if current_lang == 'zh' %}
+              <span>CN Interface Online</span>
+            {% else %}
+              <span>EN Interface Online</span>
+            {% endif %}
+          </div>
+
+          {% if site.github.is_project_page %}
+          <a href="{{ site.github.repository_url }}" class="button"><small>Repository</small>GitHub</a>
+          {% endif %}
+          {% if site.github.is_user_page %}
+          <a href="{{ site.github.owner_url }}" class="button"><small>Profile</small>GitHub</a>
+          {% endif %}
+        </div>
+      </div>
+    </header>
+
+    <main id="content-wrapper" class="content-shell">
+      <div class="inner content-grid clearfix">
+        <section id="main-content">
+          {{ content }}
+        </section>
+      </div>
+    </main>
   </div>
+
+  <script>
+    (function () {
+      var switchLink = document.querySelector('.lang-switch');
+      if (!switchLink) {
+        return;
+      }
+
+      switchLink.addEventListener('click', function () {
+        var targetLang = switchLink.getAttribute('data-lang-target');
+        if (targetLang) {
+          localStorage.setItem('preferred-lang', targetLang);
+        }
+      });
+    })();
+  </script>
 </body>
 
 </html>

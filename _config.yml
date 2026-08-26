@@ -1,6 +1,8 @@
 title: Xufan Zhang
 theme: jekyll-theme-architect
-description: 
+description:
+url: https://resume.zhangxufan.cn
+baseurl: ""
 lang: en
 languages: ["en", "zh"]
-exclude_from_localization: ["assets", "script"] 
+exclude_from_localization: ["assets", "script"]
